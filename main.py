@@ -6,6 +6,7 @@ import random
 pygame.init()
 x_val = 1000
 y_val = 500
+val = 0 #test for git lol
 screen = pygame.display.set_mode((x_val,y_val))
 font = pygame.font.Font(None, 30)
 score = 0
