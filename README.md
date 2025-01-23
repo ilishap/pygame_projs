@@ -18,3 +18,4 @@ when u reach ten u win
 .
 
 there was supposed to be confetti at the end but i messed up sm and got tired
+dont hate ik its easy but we all start somewhere right
